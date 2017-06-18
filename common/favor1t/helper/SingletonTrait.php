@@ -9,6 +9,10 @@
 namespace app\favor1t\helper;
 
 
+/**
+ * Class SingletonTrait
+ * @package app\favor1t\helper
+ */
 trait SingletonTrait
 {
     private function __clone(){}
